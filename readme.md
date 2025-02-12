@@ -41,7 +41,6 @@ This repository contains the code for building a Netflix-inspired home page and 
 ![ScreenShot](assets/images/readme/4.png)
 ![ScreenShot](assets/images/readme/5.png)
 ![ScreenShot](assets/images/readme/6.png)
-![ScreenShot](assets/images/readme/7.png)
 </div>
 
 The Home Page consists of 5 main sections:
