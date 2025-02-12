@@ -69,16 +69,7 @@ This section contains the FAQs in a form of accordion, when you click anywhere i
 It contains useful links users may need it.
 
 
-***### The page is fully responsive to all mobile devices even the small ones. ###***
-
-
-# Sign-in Page
- 
- <div align="center"><a name="menu"></a>
-
-![ScreenShot](assets/images/readme/8.png)
-![ScreenShot](assets/images/readme/9.png)
-</div>
+***### The page is fully responsive to all mobile devices even the small ones. ####
 
 The Sign-in Page consists of 3 main sections:
 
